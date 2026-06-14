@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: !|cff00ffffAddon Naer|r |cff00ffffGearEspectador|r
+## Notes: Escanea mochilas y banco y recomienda mejoras de equipo segun tu rol
+## Author: Zorrorojo/miabuelita (guild Sedentarios)
+## Version: 3.0
+## X-Part-Of: !|cff00ffffAddon Naer|r
+## SavedVariables: GearEspectadorDB
+## SavedVariablesPerCharacter: GE_BankCache
+
+GearEspectador.lua
